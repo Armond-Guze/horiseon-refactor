@@ -16,3 +16,4 @@ Finally we added head and header tags, and gave our webpage a meaningful title t
 
 
 
+![week1-sc](https://github.com/Armond-Guze/horiseon-refactor/assets/88688052/aba9a5fd-b6f2-4247-b9f6-034652652ee3)
